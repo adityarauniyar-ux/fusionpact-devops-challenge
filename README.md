@@ -1,5 +1,12 @@
 # 🚀 Dockerized Full-Stack DevOps Project
 
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)
+![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus%20%2B%20Grafana-orange)
+![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
+
+---
+
 ## 👤 Author
 
 **Aditya Rauniyar**
@@ -12,26 +19,28 @@ https://github.com/adityarauniyar-ux/fusionpact-devops-challenge
 
 ## 📌 Project Title
 
-Dockerized Full-Stack Application with CI/CD & Monitoring (Prometheus + Grafana)
+**Dockerized Full-Stack Application with CI/CD & Monitoring (Prometheus + Grafana)**
 
 ---
 
 ## 📖 Project Overview
 
-This project demonstrates a complete DevOps implementation of a full-stack application.
+This project demonstrates a **complete DevOps pipeline** for a full-stack application.
 
-It includes:
+### 🔥 Features
 
-* Frontend (Nginx)
-* Backend (FastAPI - Python)
-* Monitoring (Prometheus + Grafana)
-* CI/CD (GitHub Actions)
+* ⚡ FastAPI Backend (Python)
+* 🌐 Nginx Frontend
+* 🐳 Dockerized Services
+* 🔄 CI/CD using GitHub Actions
+* 📊 Monitoring with Prometheus & Grafana
 
-The goal is to:
+---
 
-* Containerize services using Docker
-* Automate deployment
-* Implement monitoring & observability
+## 🌍 Live Demo
+
+* 🔗 **Frontend:** https://frontend-app-0qf9.onrender.com
+* 🔗 **Backend:** https://fusionpact-devops-challenge-9mdt.onrender.com
 
 ---
 
